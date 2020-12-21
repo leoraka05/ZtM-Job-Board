@@ -1,0 +1,15 @@
+{
+  "name": "Rakesh Kumar Jena",
+  "img": "https://rkjena.netlify.app/Images/Rakesh.jpg",
+  "links": {
+    "website": "https://rkjena.netlify.app/",
+    "linkedin": "https://www.linkedin.com/in/rakesh-kumar-jena-736585175/",
+    "github": "https://github.com/leoraka05"
+  },
+  "jobTitle": "Web Developer",
+  "location": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "country": "India"
+  }
+}
